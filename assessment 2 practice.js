@@ -18,6 +18,7 @@ apple.buy = function () {
 
 apple.buy();
 
+
 // 2. Write a function that takes in two string arguments: the first being the string assessed, and the second being a single letter. The function should return a count of the occurances of the letter (second argument) within the string (first argument). This function should count both upper and lowercase instances of the letter.
 
 
@@ -28,7 +29,7 @@ apple.buy();
 
 
 
-// 4. Write a function that takes in an array of numbers and returns an array of numbers from the original array that were evenly divisible by 13. If a number is not evenly divizible by 13, it should not be returned. If no elements within the array are evenly divisible by 13, the function should return an empty array.
+// 4. Write a function that takes in an array of numbers and returns an array of numbers from the original array that were evenly divisible by 13. If a number is not evenly divisible by 13, it should not be returned. If no elements within the array are evenly divisible by 13, the function should return an empty array.
 
 
 
