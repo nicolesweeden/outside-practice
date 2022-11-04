@@ -43,3 +43,41 @@ apple.buy();
 //     the argument passed into the function. The count should refelect instances of both
 //     uppercase and lowercase "E" (HINT: a previous function maybe useful in achieving
 //     this).
+
+function countOccurancesOfLetter(stringOne, letter){
+    let stringArr = stringOne.toLowerCase().split(``);
+    console.log(stringArr);
+    let count = 0;
+    stringArr.forEach(function(index){
+        if (index === letter){
+            count += 1;
+        }
+    })
+    console.log(count);
+    return count;
+}
+countOccurancesOfLetter(`Gengar`, `g`);
+
+
+jsvier cataneda example above. he used a foreach loop
+
+
+
+//Study hall with Cody: loops,araays, and objects
+// Be able to work through assessment or the retake
+// *More than 2 questions that have to do with arrays:
+// -manipulating arrays
+//     -using slice and join method (or split and join)
+//     -adding stuff to beginning of array
+//
+// -we prob wont need while or do while
+//
+// -know how to do a for loop and for each loop
+//
+// -well use split, slice, join alltogether
+// -iterating through an array adn doing something within each array
+// assessment uses objects for some things but no complicated object or array of objects
+// -arrays are more prevalent than objects
+// -know how to build an object within a function.
+//
+// -3 q's basically from last assessment
