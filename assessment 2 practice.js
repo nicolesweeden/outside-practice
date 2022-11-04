@@ -59,7 +59,7 @@ function countOccurancesOfLetter(stringOne, letter){
 countOccurancesOfLetter(`Gengar`, `g`);
 
 
-jsvier cataneda example above. he used a foreach loop
+javier cataneda example above. he used a foreach loop
 
 
 
@@ -80,4 +80,4 @@ jsvier cataneda example above. he used a foreach loop
 // -arrays are more prevalent than objects
 // -know how to build an object within a function.
 //
-// -3 q's basically from last assessment
+// -3 q's that are basically from last assessment
