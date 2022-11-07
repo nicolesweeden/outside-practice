@@ -24,6 +24,26 @@ apple.buy();
 // The function should return a count of the occurrences of the letter (second argument) within the string (first argument).
 // This function should count both upper and lowercase instances of the letter.
 
+OPTION ONE:
+function countCharacters(string1, char) {
+    return char.split('').reduce((acc, str) => str === str ? acc + 1: acc, 0)
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OPTION TWO:
 
 function char_count(str, letter) {
     var letter_Count = 0;
