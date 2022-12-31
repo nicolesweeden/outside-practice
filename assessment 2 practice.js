@@ -182,3 +182,4 @@ countOccurancesOfLetter(`Gengar`, `g`);
 // -we prob won't need while or do while
 
 
+
